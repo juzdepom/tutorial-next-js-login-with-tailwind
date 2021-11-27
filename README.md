@@ -2,7 +2,9 @@
 
 <img src="screenshot.png"/>
 
-See in Github Pages:
+Having trouble deploying the Next.JS to Github pages, so to run the project, download and npm start I suppose? 
+
+Or if you are Julia, you can access this "tutorial-next-js-login-with-tailwind" in the TUTORIALS folder in your React folder.
 
 Original Youtube Tutorial: https://www.youtube.com/watch?v=G1edEyAnEZY
 
