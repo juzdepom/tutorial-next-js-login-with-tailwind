@@ -8,7 +8,7 @@ Original Youtube Tutorial: https://www.youtube.com/watch?v=G1edEyAnEZY
 
 <hr/>
 
-### My Notes
+### Notes
 
 Next JS official website: https://nextjs.org/
 Tailwindcss official website: https://tailwindcss.com/
@@ -27,4 +27,4 @@ open in Visual Studio Code using code . when you are in the appropriate director
 Installed the extension Tailwind CSS IntelliSense into VSCode
 
 10:00 - having some difficulty with the rounded corners;
-aaahhh omg it was because it because the syntax was "rounded-2xl" and not "rounded-2x1" like I had thought.
+aaahhh omg it was because it because the syntax was "rounded-2xl" and not "rounded-2x1" haha
